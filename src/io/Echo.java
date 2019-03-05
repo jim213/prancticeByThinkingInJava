@@ -10,6 +10,7 @@ public class Echo {
         String s;
         while ((s= in.readLine())!=null && s.length() !=0){
             System.out.println(s);
+            System.out.println("echo");
         }
     }
 }
