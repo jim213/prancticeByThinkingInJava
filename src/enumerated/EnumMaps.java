@@ -2,7 +2,6 @@ package enumerated;
 
 import java.util.EnumMap;
 import java.util.Map;
-import java.util.Set;
 
 import static enumerated.AlarmPoints.*;
 

@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54012803-926c-4fe4-a4f1-5039829242a5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/enumerated/EnumImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerated/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Enums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prancticeByThinkingInJava/io/BufferedInputFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prancticeByThinkingInJava/io/BufferedInputFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prancticeByThinkingInJava/io/Echo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prancticeByThinkingInJava/io/Echo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enumerated/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumerated/Reflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumerated/EnumMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumerated/EnumMaps.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,43 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EnumClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/enumerated/EnumClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Spiciness.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/enumerated/Spiciness.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Burrito.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/enumerated/Burrito.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OzWitch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/enumerated/OzWitch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="200">
               <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="e#254#255#0" expanded="true" />
@@ -79,7 +40,7 @@
       <file leaf-file-name="Reflection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/enumerated/Reflection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
+            <state relative-caret-position="1050">
               <caret line="42" column="31" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,7 +52,7 @@
       <file leaf-file-name="EnumImplementation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/enumerated/EnumImplementation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="550">
               <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Enums.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Enums.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/util/Enums.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
@@ -118,13 +79,45 @@
       <file leaf-file-name="Meal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/enumerated/Meal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="27" />
+            <state relative-caret-position="25">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="28" />
               <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
                 <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlarmPoints.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enumerated/AlarmPoints.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnumSets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enumerated/EnumSets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnumMaps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/enumerated/EnumMaps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="824">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,9 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/testFormThinkingInJava/OutThis.java" />
-        <option value="$PROJECT_DIR$/src/testFormThinkingInJava/Prace18.java" />
-        <option value="$PROJECT_DIR$/src/testFormThinkingInJava/OutClass.java" />
         <option value="$PROJECT_DIR$/src/testFormThinkingInJava/CopyTest.java" />
         <option value="$PROJECT_DIR$/src/testFormThinkingInJava/Callbacks.java" />
         <option value="$PROJECT_DIR$/src/Hex.java" />
@@ -215,6 +205,9 @@
         <option value="$PROJECT_DIR$/src/enumerated/EnumImplementation.java" />
         <option value="$PROJECT_DIR$/src/util/Enums.java" />
         <option value="$PROJECT_DIR$/src/enumerated/Meal.java" />
+        <option value="$PROJECT_DIR$/src/enumerated/AlarmPoints.java" />
+        <option value="$PROJECT_DIR$/src/enumerated/EnumSets.java" />
+        <option value="$PROJECT_DIR$/src/enumerated/EnumMaps.java" />
       </list>
     </option>
   </component>
@@ -240,14 +233,15 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,6 +270,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -283,7 +278,7 @@
     <property name="SearchEverywhereHistoryKey" value="Generator&#9;FILE&#9;file://D:/IdeaProjects/github/prancticeByThinkingInJava/src/generics/Generator.java&#10;nio&#9;FILE&#9;jar://C:/java/jdk1.8.0_131/jre/lib/rt.jar!/java/nio&#10;resta&#9;FILE&#9;file://D:/IdeaProjects/prancticeByThinkingInJava/src/testFormThinkingInJava/concurrent/Restaurant.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cdmtc/cdmtc.itsm.platform" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -309,9 +304,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Meal">
+  <component name="RunManager" selected="Application.EnumMaps">
     <configuration name="EnumImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumerated.EnumImplementation" />
+      <module name="prancticeByThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumerated.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EnumMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumerated.EnumMaps" />
+      <module name="prancticeByThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumerated.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EnumSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumerated.EnumSets" />
       <module name="prancticeByThinkingInJava" />
       <extension name="coverage">
         <pattern>
@@ -330,16 +345,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OzWitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumerated.OzWitch" />
-      <module name="prancticeByThinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="enumerated.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="Reflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumerated.Reflection" />
       <module name="prancticeByThinkingInJava" />
@@ -350,30 +355,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumerated.TrafficLight" />
-      <module name="prancticeByThinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="enumerated.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.OzWitch" />
-      <item itemvalue="Application.TrafficLight" />
       <item itemvalue="Application.Reflection" />
       <item itemvalue="Application.EnumImplementation" />
       <item itemvalue="Application.Meal" />
+      <item itemvalue="Application.EnumSets" />
+      <item itemvalue="Application.EnumMaps" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumMaps" />
+        <item itemvalue="Application.EnumSets" />
         <item itemvalue="Application.Meal" />
         <item itemvalue="Application.EnumImplementation" />
         <item itemvalue="Application.Reflection" />
-        <item itemvalue="Application.TrafficLight" />
-        <item itemvalue="Application.OzWitch" />
       </list>
     </recent_temporary>
   </component>
@@ -430,6 +425,8 @@
       <workItem from="1551838601679" duration="7531000" />
       <workItem from="1551924997210" duration="2876000" />
       <workItem from="1551929411586" duration="2096000" />
+      <workItem from="1552025701638" duration="1700000" />
+      <workItem from="1552029771173" duration="2176000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1551776683752</created>
@@ -452,11 +449,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551864659534</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="enum">
+      <created>1552025788956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552025788956</updated>
+    </task>
+    <task id="LOCAL-00005" summary="enum">
+      <created>1552030598430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552030598430</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161426000" />
+    <option name="totallyTimeSpent" value="165302000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,7 +503,7 @@
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.38521835" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32922733" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833333" visible="true" weight="0.17324094" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833333" visible="true" weight="0.12686567" />
       <window_info id="JRebel" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="6" sideWeight="0.50166667" side_tool="true" weight="0.25" />
@@ -562,27 +573,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/generics/IterableFibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics/CountObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/generics/BasicGeneratorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -828,9 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,7 +837,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/enumerated/Burrito.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="375">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#143#144#0" expanded="true" />
@@ -863,7 +850,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/enumerated/OzWitch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="200">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="e#254#255#0" expanded="true" />
@@ -902,7 +889,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/enumerated/Reflection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
+        <state relative-caret-position="1050">
           <caret line="42" column="31" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -912,25 +899,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/enumerated/EnumImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="550">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#481#482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/enumerated/Meal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -942,6 +916,45 @@
           <folding>
             <element signature="e#267#268#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumerated/EnumSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumerated/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumerated/AlarmPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumerated/EnumMaps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
           </folding>
         </state>
       </provider>
