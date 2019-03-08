@@ -33,5 +33,16 @@ public class Reflection {
         System.out.println("exploreMethods containsAll enumMethods:");
         exploreMethods.removeAll(enumMethods);
         System.out.println(exploreMethods);
+        System.out.println("-----------test getEnumConstants-------------------------");
+        Explore[] values = Explore.values();
+        Enum e = Explore.HERE;
+        for (Enum en : e.getClass().getEnumConstants()){
+            System.out.println(en);
+        }
+        System.out.println("-----------test noEnum getEnumConstants-------------------------");
+        Class<Integer> intClass = Integer.class;
+        for (Object en : intClass.getEnumConstants()){
+            System.out.println(en);
+        }
     }
 }
