@@ -1,6 +1,5 @@
 package testFormThinkingInJava.concurrent;
 
-import java.awt.*;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 

@@ -3,7 +3,8 @@ package testFormThinkingInJava.concurrent;
 public class EventGenerator extends IntGenerator {
     private int currentEventValue = 0;
     @Override
-    public synchronized int next() {
+//    public synchronized int next() {
+    public  int next() {
         ++currentEventValue;
         Thread.yield();
         ++currentEventValue;
@@ -12,6 +13,6 @@ public class EventGenerator extends IntGenerator {
     }
 
     public static void main(String[] args) {
-        EventChecker.test(new EventGenerator(),1);
+        EventChecker.test(new EventGenerator(),2);
     }
 }

@@ -15,6 +15,7 @@ public class EventChecker implements Runnable {
     public void run() {
         while (!generator.isCanceld()){
             int val = generator.next();
+            System.out.println(val + "     ------    "+Thread.currentThread().getName());
             if (val % 2 !=0) {
                 System.out.println(val+" not event!");
                 generator.cancle();
