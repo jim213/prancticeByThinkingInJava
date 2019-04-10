@@ -23,9 +23,9 @@ public class HorseRace {
             for (Horse horse:horses){
                 if (horse.getStrides() >= FINAISN_LINE){
                     System.out.println(horse + " won!");
+                    exec.shutdownNow();
+                    return;
                 }
-                exec.shutdownNow();
-                return;
             }
             try {
                 TimeUnit.MILLISECONDS.sleep(pause);

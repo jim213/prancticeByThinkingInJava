@@ -8,7 +8,7 @@ import java.util.concurrent.*;
 import static java.util.concurrent.TimeUnit.MILLISECONDS;
 import static java.util.concurrent.TimeUnit.NANOSECONDS;
 
-public class DeDelayQueueDemo {
+public class DelayQueueDemo {
     public static void main(String[] args) {
         Random rand = new Random(17);
         ExecutorService exec = Executors.newCachedThreadPool();

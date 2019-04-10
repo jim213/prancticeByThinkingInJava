@@ -17,7 +17,7 @@ public class Philosopher implements Runnable{
     }
     public void pause() throws InterruptedException {
         if (ponderFactor == 0 ) return;
-        TimeUnit.MILLISECONDS.sleep(rand.nextInt(ponderFactor *250));
+        TimeUnit.MILLISECONDS.sleep(rand.nextInt(ponderFactor ));
     }
 
 

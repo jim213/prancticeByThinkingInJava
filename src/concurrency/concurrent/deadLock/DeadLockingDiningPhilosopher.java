@@ -19,7 +19,7 @@ public class DeadLockingDiningPhilosopher {
             chopsticks[i] = new Chopstick();
         }
         for(int i=0;i<size;i++){
-            exec.execute(new Philosopher(chopsticks[i],chopsticks[(i+1)%size],i,ponder));
+            exec.execute(new Philosopher(chopsticks[i],chopsticks[(i+1) % size],i,ponder));
         }
         if (args.length== 3 && args[2].equals("timeout")){
             TimeUnit.SECONDS.sleep(5);
