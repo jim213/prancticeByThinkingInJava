@@ -21,5 +21,6 @@ public class Fat {
     public static void main(String[] args) {
         for (int i=0;i<5;i++)
             System.out.println(new Fat());
+        // 4 4*3 4*3*3
     }
 }
